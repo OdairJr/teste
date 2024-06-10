@@ -160,5 +160,162 @@
       "categoria": "Laticínios",
       "preco": 12.00
     }
+  ],
+  "receitas": [
+    {
+      "id": 1,
+      "nome": "Bolo de Chocolate",
+      "descricao": "Um bolo de chocolate delicioso e fácil de fazer.",
+      "tempo_preparo": "1 hora",
+      "rendimento": "10 porções",
+      "produtos": [
+        {
+          "id": 1,
+          "nome": "farinha de trigo",
+          "quantidade": "2 xícaras"
+        },
+        {
+          "id": 2,
+          "nome": "açúcar refinado",
+          "quantidade": "1 e 1/2 xícaras"
+        },
+        {
+          "id": 3,
+          "nome": "manteiga sem sal",
+          "quantidade": "200g"
+        },
+        {
+          "id": 5,
+          "nome": "chocolate em pó",
+          "quantidade": "1 xícara"
+        },
+        {
+          "id": 9,
+          "nome": "fermento químico em pó",
+          "quantidade": "1 colher de sopa"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Brigadeiro",
+      "descricao": "Tradicional doce brasileiro feito com leite condensado e chocolate.",
+      "tempo_preparo": "30 minutos",
+      "rendimento": "20 unidades",
+      "produtos": [
+        {
+          "id": 4,
+          "nome": "leite condensado",
+          "quantidade": "1 lata"
+        },
+        {
+          "id": 5,
+          "nome": "chocolate em pó",
+          "quantidade": "4 colheres de sopa"
+        },
+        {
+          "id": 3,
+          "nome": "manteiga sem sal",
+          "quantidade": "1 colher de sopa"
+        },
+        {
+          "id": 8,
+          "nome": "granulado de chocolate",
+          "quantidade": "para cobrir"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Pavê de Coco",
+      "descricao": "Delicioso pavê feito com camadas de creme e coco.",
+      "tempo_preparo": "2 horas",
+      "rendimento": "12 porções",
+      "produtos": [
+        {
+          "id": 4,
+          "nome": "leite condensado",
+          "quantidade": "2 latas"
+        },
+        {
+          "id": 10,
+          "nome": "coco ralado",
+          "quantidade": "100g"
+        },
+        {
+          "id": 13,
+          "nome": "creme de leite",
+          "quantidade": "2 caixas"
+        },
+        {
+          "id": 14,
+          "nome": "amido de milho",
+          "quantidade": "2 colheres de sopa"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "Biscoito Amanteigado",
+      "descricao": "Biscoito crocante e amanteigado perfeito para o chá da tarde.",
+      "tempo_preparo": "1 hora e 30 minutos",
+      "rendimento": "50 unidades",
+      "produtos": [
+        {
+          "id": 1,
+          "nome": "farinha de trigo",
+          "quantidade": "3 xícaras"
+        },
+        {
+          "id": 2,
+          "nome": "açúcar refinado",
+          "quantidade": "1 xícara"
+        },
+        {
+          "id": 3,
+          "nome": "manteiga sem sal",
+          "quantidade": "250g"
+        },
+        {
+          "id": 7,
+          "nome": "essência de baunilha",
+          "quantidade": "1 colher de chá"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nome": "Torta de Nozes",
+      "descricao": "Torta deliciosa feita com nozes e um toque de canela.",
+      "tempo_preparo": "3 horas",
+      "rendimento": "12 porções",
+      "produtos": [
+        {
+          "id": 1,
+          "nome": "farinha de trigo",
+          "quantidade": "2 xícaras"
+        },
+        {
+          "id": 2,
+          "nome": "açúcar refinado",
+          "quantidade": "1 e 1/2 xícaras"
+        },
+        {
+          "id": 3,
+          "nome": "manteiga sem sal",
+          "quantidade": "200g"
+        },
+        {
+          "id": 18,
+          "nome": "nozes",
+          "quantidade": "200g"
+        },
+        {
+          "id": 6,
+          "nome": "fermento biológico seco",
+          "quantidade": "1 colher de sopa"
+        }
+      ]
+    }
   ]
 }
