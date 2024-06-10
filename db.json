@@ -1,164 +1,164 @@
 {
   "produtos": [
     {
-      "ID": 1,
-      "Nome": "Farinha de Trigo",
-      "Descricao": "Farinha de trigo branca para uso em bolos, pães e biscoitos.",
-      "Marca": "Dona Benta",
-      "Categoria": "Farinha",
-      "Preco": 4.50
+      "id": 1,
+      "nome": "Farinha de Trigo",
+      "descricao": "Farinha de trigo branca para uso em bolos, pães e biscoitos.",
+      "marca": "Dona Benta",
+      "categoria": "Farinha",
+      "preco": 4.50
     },
     {
-      "ID": 2,
-      "Nome": "Açúcar Refinado",
-      "Descricao": "Açúcar refinado fino, ideal para receitas de confeitaria.",
-      "Marca": "União",
-      "Categoria": "Açúcar",
-      "Preco": 3.00
+      "id": 2,
+      "nome": "Açúcar Refinado",
+      "descricao": "Açúcar refinado fino, ideal para receitas de confeitaria.",
+      "marca": "União",
+      "categoria": "Açúcar",
+      "preco": 3.00
     },
     {
-      "ID": 3,
-      "Nome": "Manteiga sem Sal",
-      "Descricao": "Manteiga pura sem sal para uso em massas e recheios.",
-      "Marca": "Aviação",
-      "Categoria": "Laticínios",
-      "Preco": 9.00
+      "id": 3,
+      "nome": "Manteiga sem Sal",
+      "descricao": "Manteiga pura sem sal para uso em massas e recheios.",
+      "marca": "Aviação",
+      "categoria": "Laticínios",
+      "preco": 9.00
     },
     {
-      "ID": 4,
-      "Nome": "Leite Condensado",
-      "Descricao": "Leite condensado para preparo de doces e sobremesas.",
-      "Marca": "Moça",
-      "Categoria": "Laticínios",
-      "Preco": 6.50
+      "id": 4,
+      "nome": "Leite Condensado",
+      "descricao": "Leite condensado para preparo de doces e sobremesas.",
+      "marca": "Moça",
+      "categoria": "Laticínios",
+      "preco": 6.50
     },
     {
-      "ID": 5,
-      "Nome": "Chocolate em Pó",
-      "Descricao": "Chocolate em pó 50% cacau para bolos e recheios.",
-      "Marca": "Nestlé",
-      "Categoria": "Chocolate",
-      "Preco": 8.00
+      "id": 5,
+      "nome": "Chocolate em Pó",
+      "descricao": "Chocolate em pó 50% cacau para bolos e recheios.",
+      "marca": "Nestlé",
+      "categoria": "Chocolate",
+      "preco": 8.00
     },
     {
-      "ID": 6,
-      "Nome": "Fermento Biológico Seco",
-      "Descricao": "Fermento biológico seco instantâneo para pães e bolos.",
-      "Marca": "Fleischmann",
-      "Categoria": "Fermento",
-      "Preco": 2.50
+      "id": 6,
+      "nome": "Fermento Biológico Seco",
+      "descricao": "Fermento biológico seco instantâneo para pães e bolos.",
+      "marca": "Fleischmann",
+      "categoria": "Fermento",
+      "preco": 2.50
     },
     {
-      "ID": 7,
-      "Nome": "Essência de Baunilha",
-      "Descricao": "Essência de baunilha concentrada para aromatizar doces.",
-      "Marca": "Dr. Oetker",
-      "Categoria": "Aromatizantes",
-      "Preco": 5.00
+      "id": 7,
+      "nome": "Essência de Baunilha",
+      "descricao": "Essência de baunilha concentrada para aromatizar doces.",
+      "marca": "Dr. Oetker",
+      "categoria": "Aromatizantes",
+      "preco": 5.00
     },
     {
-      "ID": 8,
-      "Nome": "Granulado de Chocolate",
-      "Descricao": "Granulado de chocolate para decoração de bolos e doces.",
-      "Marca": "Dori",
-      "Categoria": "Confeitos",
-      "Preco": 3.00
+      "id": 8,
+      "nome": "Granulado de Chocolate",
+      "descricao": "Granulado de chocolate para decoração de bolos e doces.",
+      "marca": "Dori",
+      "categoria": "Confeitos",
+      "preco": 3.00
     },
     {
-      "ID": 9,
-      "Nome": "Fermento Químico em Pó",
-      "Descricao": "Fermento químico em pó para bolos e tortas.",
-      "Marca": "Royal",
-      "Categoria": "Fermento",
-      "Preco": 3.50
+      "id": 9,
+      "nome": "Fermento Químico em Pó",
+      "descricao": "Fermento químico em pó para bolos e tortas.",
+      "marca": "Royal",
+      "categoria": "Fermento",
+      "preco": 3.50
     },
     {
-      "ID": 10,
-      "Nome": "Coco Ralado",
-      "Descricao": "Coco ralado desidratado para uso em bolos e doces.",
-      "Marca": "Sococo",
-      "Categoria": "Frutas Secas",
-      "Preco": 4.00
+      "id": 10,
+      "nome": "Coco Ralado",
+      "descricao": "Coco ralado desidratado para uso em bolos e doces.",
+      "marca": "Sococo",
+      "categoria": "Frutas Secas",
+      "preco": 4.00
     },
     {
-      "ID": 11,
-      "Nome": "Gelatina Incolor",
-      "Descricao": "Gelatina incolor sem sabor para uso em sobremesas.",
-      "Marca": "Royal",
-      "Categoria": "Gelatina",
-      "Preco": 2.00
+      "id": 11,
+      "nome": "Gelatina Incolor",
+      "descricao": "Gelatina incolor sem sabor para uso em sobremesas.",
+      "marca": "Royal",
+      "categoria": "Gelatina",
+      "preco": 2.00
     },
     {
-      "ID": 12,
-      "Nome": "Açúcar de Confeiteiro",
-      "Descricao": "Açúcar de confeiteiro fino para coberturas e decorações.",
-      "Marca": "Glaçúcar",
-      "Categoria": "Açúcar",
-      "Preco": 4.00
+      "id": 12,
+      "nome": "Açúcar de Confeiteiro",
+      "descricao": "Açúcar de confeiteiro fino para coberturas e decorações.",
+      "marca": "Glaçúcar",
+      "categoria": "Açúcar",
+      "preco": 4.00
     },
     {
-      "ID": 13,
-      "Nome": "Creme de Leite",
-      "Descricao": "Creme de leite pasteurizado para sobremesas e recheios.",
-      "Marca": "Nestlé",
-      "Categoria": "Laticínios",
-      "Preco": 5.00
+      "id": 13,
+      "nome": "Creme de Leite",
+      "descricao": "Creme de leite pasteurizado para sobremesas e recheios.",
+      "marca": "Nestlé",
+      "categoria": "Laticínios",
+      "preco": 5.00
     },
     {
-      "ID": 14,
-      "Nome": "Amido de Milho",
-      "Descricao": "Amido de milho para engrossar cremes e caldas.",
-      "Marca": "Maizena",
-      "Categoria": "Amido",
-      "Preco": 2.50
+      "id": 14,
+      "nome": "Amido de Milho",
+      "descricao": "Amido de milho para engrossar cremes e caldas.",
+      "marca": "Maizena",
+      "categoria": "Amido",
+      "preco": 2.50
     },
     {
-      "ID": 15,
-      "Nome": "Chocolate ao Leite",
-      "Descricao": "Chocolate ao leite em barra para derreter e utilizar em receitas.",
-      "Marca": "Garoto",
-      "Categoria": "Chocolate",
-      "Preco": 7.00
+      "id": 15,
+      "nome": "Chocolate ao Leite",
+      "descricao": "Chocolate ao leite em barra para derreter e utilizar em receitas.",
+      "marca": "Garoto",
+      "categoria": "Chocolate",
+      "preco": 7.00
     },
     {
-      "ID": 16,
-      "Nome": "Leite em Pó",
-      "Descricao": "Leite em pó integral para uso em doces e recheios.",
-      "Marca": "Ninho",
-      "Categoria": "Laticínios",
-      "Preco": 8.00
+      "id": 16,
+      "nome": "Leite em Pó",
+      "descricao": "Leite em pó integral para uso em doces e recheios.",
+      "marca": "Ninho",
+      "categoria": "Laticínios",
+      "preco": 8.00
     },
     {
-      "ID": 17,
-      "Nome": "Corante Alimentício",
-      "Descricao": "Corante alimentício líquido para colorir massas e coberturas.",
-      "Marca": "Mix",
-      "Categoria": "Aromatizantes",
-      "Preco": 3.50
+      "id": 17,
+      "nome": "Corante Alimentício",
+      "descricao": "Corante alimentício líquido para colorir massas e coberturas.",
+      "marca": "Mix",
+      "categoria": "Aromatizantes",
+      "preco": 3.50
     },
     {
-      "ID": 18,
-      "Nome": "Nozes",
-      "Descricao": "Nozes inteiras para uso em bolos e sobremesas.",
-      "Marca": "Jazam",
-      "Categoria": "Frutas Secas",
-      "Preco": 15.00
+      "id": 18,
+      "nome": "Nozes",
+      "descricao": "Nozes inteiras para uso em bolos e sobremesas.",
+      "marca": "Jazam",
+      "categoria": "Frutas Secas",
+      "preco": 15.00
     },
     {
-      "ID": 19,
-      "Nome": "Glucose de Milho",
-      "Descricao": "Glucose de milho para uso em receitas de confeitaria.",
-      "Marca": "Karo",
-      "Categoria": "Açúcar",
-      "Preco": 6.00
+      "id": 19,
+      "nome": "Glucose de Milho",
+      "descricao": "Glucose de milho para uso em receitas de confeitaria.",
+      "marca": "Karo",
+      "categoria": "Açúcar",
+      "preco": 6.00
     },
     {
-      "ID": 20,
-      "Nome": "Creme de Leite Fresco",
-      "Descricao": "Creme de leite fresco para chantilly e sobremesas.",
-      "Marca": "Fazenda Bela Vista",
-      "Categoria": "Laticínios",
-      "Preco": 12.00
+      "id": 20,
+      "nome": "Creme de Leite Fresco",
+      "descricao": "Creme de leite fresco para chantilly e sobremesas.",
+      "marca": "Fazenda Bela Vista",
+      "categoria": "Laticínios",
+      "preco": 12.00
     }
   ]
 }
